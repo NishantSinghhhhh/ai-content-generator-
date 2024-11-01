@@ -17,3 +17,5 @@ export const UserSubscription=pgTable('userSubscription',{
     paymentId:varchar('paymentId'),
     joinDate:varchar('joinData')
 })
+
+// running a test pn it okay
