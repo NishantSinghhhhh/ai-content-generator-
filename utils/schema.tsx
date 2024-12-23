@@ -18,4 +18,4 @@ export const UserSubscription=pgTable('userSubscription',{
     joinDate:varchar('joinData')
 })
 
-// running a test pn it okay
+
